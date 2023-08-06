@@ -30,7 +30,7 @@ Duration: 07/2022 to 08/2023 <br>
 •	Help conduct limited surveys for understanding local epidemiological patterns
 •	Took part in medical camps in remote areas
 •	Provided health care services to well over 100,000 patients in a year as a part of a small but well-knit team.
-
+<hr>
 
 
 
