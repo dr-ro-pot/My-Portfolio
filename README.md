@@ -21,8 +21,10 @@ drmirajkc@gmail.com
 
 # Medical Experince:
 
-<b>Medical Officer</b> – 07/2022 to 08/2023
-HDCS Chaurjahari Hospita, Rukum West
+<b>Medical Officer</b> 
+
+HDCS Chaurjahari Hospita, Rukum West <br>
+Duration: 07/2022 to 08/2023 <br>
 •	Worked in ER, OPD, IPD and OT 
 •	Managed cases in a low resource setting 
 •	Help conduct limited surveys for understanding local epidemiological patterns
