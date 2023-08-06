@@ -28,7 +28,8 @@ Duration: 07/2022 to 08/2023 <br>
 
 1. Growth Charts App: https://github.com/dr-ro-pot/MDM-malnutrition/<br>
 ![image](https://github.com/dr-ro-pot/My-Portfolio/assets/100460238/64f1eea4-248e-4b4f-8e04-dd265aa9a52b)
-2.Data Visualisation in Maps:https://github.com/dr-ro-pot/DataVisualMapping
+<br>
+2.Data Visualisation in Maps:https://github.com/dr-ro-pot/DataVisualMapping<br>
 ![image](https://github.com/dr-ro-pot/My-Portfolio/assets/100460238/29a23058-1219-4881-aa55-e74a530141de)
 
 
