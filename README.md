@@ -32,5 +32,7 @@ Duration: 07/2022 to 08/2023 <br>
 •	Provided health care services to well over 100,000 patients in a year as a part of a small but well-knit team.
 <hr>
 
+# Programming and Clinical Medicine/Research:
+
 
 
