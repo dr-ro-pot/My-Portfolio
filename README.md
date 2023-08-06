@@ -1,4 +1,6 @@
 # My-Portfolio
+About Me
+<hr>
 Dr. Miraj K C
 MBBS, Armed Forces Medical College (Pune)
 NMC no. 28930
@@ -14,3 +16,4 @@ Phone:
 
 Email:
 drmirajkc@gmail.com
+<hr>
