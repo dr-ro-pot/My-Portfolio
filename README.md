@@ -3,7 +3,7 @@
 <hr>
 <h4>About Me</h4>
 Dr. Miraj K C <br>
-MBBS, Armed Forces Medical College (Pune)
+MBBS, Armed Forces Medical College (Pune)<br>
 NMC no. 28930
 
 
