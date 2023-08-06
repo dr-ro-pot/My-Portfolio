@@ -31,7 +31,6 @@ Duration: 07/2022 to 08/2023 <br>
 <br></P>
 
 2.<p>Data Visualisation in Maps:https://github.com/dr-ro-pot/DataVisualMapping<br>
-![image](https://github.com/dr-ro-pot/My-Portfolio/assets/100460238/29a23058-1219-4881-aa55-e74a530141de)
-</p>
+![image](https://github.com/dr-ro-pot/My-Portfolio/assets/100460238/29a23058-1219-4881-aa55-e74a530141de)</p>
 
 
